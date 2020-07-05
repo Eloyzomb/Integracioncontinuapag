@@ -4,6 +4,6 @@ echo 'prueba para jenkins'
 <<<<<<< HEAD
 echo 'pruebavideo'
 =======
-echo 'pendiente en jenkins'
+echo 'Prueba para video'
 
 
